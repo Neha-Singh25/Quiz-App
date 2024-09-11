@@ -17,8 +17,8 @@ Welcome to the **Quiz App**! This is a simple and interactive quiz application b
 
 ## 🎮 How to Play
 
-**1**. Read the question displayed on the screen.
-**2**. Select one of the four options by clicking on the radio button.
-**3**. Click the Submit button to check your answer.
-**4**. Your score will be displayed at the end of the quiz.
+**1**. Read the question displayed on the screen.<br>
+**2**. Select one of the four options by clicking on the radio button.<br>
+**3**. Click the Submit button to check your answer.<br>
+**4**. Your score will be displayed at the end of the quiz.<br>
 **5**. Click the Restart button to play again.
